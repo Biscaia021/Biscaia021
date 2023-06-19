@@ -9,7 +9,7 @@
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
-![Biscaia021 GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true&bg_color=00000000)
+https://github-readme-stats.vercel.app/api?username={Biscaia021}&theme=blue-green
 
 
 
