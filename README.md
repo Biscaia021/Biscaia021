@@ -5,6 +5,8 @@
 ![Biscaia GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true&theme=dracula&count_private=true)
 
 
+[![Biscaia stats](https://github-readme-stats.vercel.app/api/wakatime?username=Biscaia021)](https://github.com/Biscaia021/github-readme-stats)
+
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
