@@ -5,7 +5,7 @@
 ![Biscaia GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true&theme=dracula&count_private=true)
 
 
-Tecnologias que eu uso no meu dia
+## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
