@@ -12,6 +12,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true" />
 </picture>
 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### I'm an Undergrad Student🎓 [@Estácio](https://estacio.br/) pursuing Science computer. I'm a **Tech Enthusiast 💻  passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.** <br/><br/>
+
+
+
+
+### -  I’m currently learning Java ☕
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
+### - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+ 
+### - 📝 I write technical blogs and articles
+
+### - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
