@@ -10,7 +10,20 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true" />
-</picture>
+</picture> 
+
+ 
+ ##
+ 
+<div> 
+  <a href="https://instagram.com/rafaelbiscaia_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/rafaelbiscaia_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/rafael-freitas44/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://leetcode.com/Biscaia021/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a> 
+
+
+</div>
+
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 ### I'm an Undergrad Student🎓 [@Estácio](https://estacio.br/) pursuing Science computer. I'm a **Tech Enthusiast 💻  passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.** <br/><br/>
@@ -37,13 +50,4 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div><br/>
  
- ##
  
-<div> 
-  <a href="https://instagram.com/rafaelbiscaia_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/rafaelbiscaia_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/rafael-freitas44/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://leetcode.com/Biscaia021/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a> 
-
-
-</div>
