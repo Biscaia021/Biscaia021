@@ -2,7 +2,7 @@
 
 
 ![Biscaia GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true&theme=dracula&count_private=true)
-[tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+[Biscaia](https://github.com/Biscaia021/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 
 
