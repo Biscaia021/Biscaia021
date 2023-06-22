@@ -1,10 +1,7 @@
 ###  Olá, eu sou o Rafael Biscaia
 
 
-![Biscaia GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true&theme=dracula&count_private=true)
-[Biscaia](https://github.com/Biscaia021/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-
+![Biscaia GitHub stats](https://github-readme-stats.vercel.app/api?username=Biscaia021&show_icons=true&theme=radical&count_private=true)
 
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
