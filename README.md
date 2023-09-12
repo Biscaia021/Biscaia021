@@ -45,6 +45,10 @@
 
 ### - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
  
+
+
+
+
 ### - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
