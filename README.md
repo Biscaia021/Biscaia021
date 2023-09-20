@@ -38,12 +38,6 @@
 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
-
- 
-
-
-
-
 ### ❤️ Astrophysics  
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
