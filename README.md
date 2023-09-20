@@ -38,13 +38,13 @@
 
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
-### - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
  
 
 
 
 
-### - 🎉 Fun-Fact: I ❤️ Astrophysics  
+### 🎉 Fun-Fact: I ❤️ Astrophysics  
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
