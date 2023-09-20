@@ -44,7 +44,7 @@
 
 
 
-### 🎉 Fun-Fact: I ❤️ Astrophysics  
+### ❤️ Astrophysics  
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
