@@ -24,16 +24,15 @@
  ##
  
 <div> 
-  <a href="https://instagram.com/rafaelbiscaia_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/rafaelbiscaia_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
    <a href="https://www.linkedin.com/in/rafael-freitas44/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://leetcode.com/Biscaia021/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a> 
+    
 
 
 </div>
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### A little about me...   
 ### I'm an Undergrad Student🎓 [@Estácio](https://estacio.br/)  studing computer science. I'm passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 💻  <br/><br/>
 
 
